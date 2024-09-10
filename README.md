@@ -35,10 +35,13 @@ Um die App lokal auszuführen, folge diesen Schritten:
 
 
 ## Technologie-Stack
-Programmiersprache: Swift, SwiftUI
-Backend: Unsplash API zur Integration kostenloser HD-Fotos
-Plattform: iOS
-Nutzung
+
+- **Programmiersprache:** Swift mit SwiftUI Framework
+- **Architektur:** MVVM (Model-View-ViewModel) pattern
+- **Backend:** Unsplash API zur Integration kostenloser HD-Fotos
+- **Datenbank & Authentifizierung:** Firebase
+
+## Nutzung
 Nach der Installation kannst du die folgenden Funktionen nutzen:
 
 - Home-Ansicht: Durchsuche und like Bilder.
@@ -47,12 +50,8 @@ Nach der Installation kannst du die folgenden Funktionen nutzen:
 - Favorite-Ansicht: Finde alle Fotos, die du geliked hast, an einem Ort.
 - Profil-Ansicht: Verwalte deine hochgeladenen Fotos und folge anderen Nutzern.
 
-## App-Struktur
-- Home-View: Zeigt Bilder von der Unsplash API, ermöglicht das Liken und Durchstöbern.
-- Trend-View: Listet die beliebtesten Fotos basierend auf Likes auf und bietet Filteroptionen.
-- Create-View: Ermöglicht das Hochladen eigener Bilder.
-- Profile-View: Zeigt die hochgeladenen Fotos eines Nutzers an.
-- Favorite-View: Speichert die vom Nutzer gelikten Fotos.
+
+
 ## Zukünftige Entwicklungen
 - 🌐 Erweiterte Social Features: Kommentare und Interaktionen zwischen Nutzern.
 - 📊 Statistiken: Zeige an, wie viele Likes und Follower ein Nutzer hat.
