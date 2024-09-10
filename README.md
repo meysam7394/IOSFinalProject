@@ -12,7 +12,7 @@
 - ❤️ **Favorite-Ansicht**: Speichere die Bilder, die dir gefallen, und finde sie in der Favoriten-Ansicht wieder.
 - 👤 **Profil-Ansicht**: Sieh alle deine hochgeladenen Fotos und folge anderen Nutzern, um deren Bilder zu sehen.
 - 🔐 **Authentifizierung**: Sichere Anmeldung mit der Möglichkeit, ein neues Konto zu erstellen.
-- 🎉 **Animationen & Hashtags**: Verwende animierte Effekte und Hashtags, um deine Fotos noch beeindruckender zu machen.
+
 
 ## Screenshots
 
@@ -41,34 +41,34 @@ Plattform: iOS
 Nutzung
 Nach der Installation kannst du die folgenden Funktionen nutzen:
 
-#Home-Ansicht: Durchsuche und like Bilder.
-#Trend-Ansicht: Entdecke Fotos mit den meisten Likes und filtere sie nach Kategorien.
-#Erstellen-Ansicht: Lade deine eigenen Fotos hoch und zeige sie in deinem Profil an.
-#Favorite-Ansicht: Finde alle Fotos, die du geliked hast, an einem Ort.
-#Profil-Ansicht: Verwalte deine hochgeladenen Fotos und folge anderen Nutzern.
+- Home-Ansicht: Durchsuche und like Bilder.
+- Trend-Ansicht: Entdecke Fotos mit den meisten Likes und filtere sie nach Kategorien.
+- Erstellen-Ansicht: Lade deine eigenen Fotos hoch und zeige sie in deinem Profil an.
+- Favorite-Ansicht: Finde alle Fotos, die du geliked hast, an einem Ort.
+- Profil-Ansicht: Verwalte deine hochgeladenen Fotos und folge anderen Nutzern.
 
 ## App-Struktur
-#Home-View: Zeigt Bilder von der Unsplash API, ermöglicht das Liken und Durchstöbern.
-#Trend-View: Listet die beliebtesten Fotos basierend auf Likes auf und bietet Filteroptionen.
-#Create-View: Ermöglicht das Hochladen eigener Bilder.
-#Profile-View: Zeigt die hochgeladenen Fotos eines Nutzers an.
-#Favorite-View: Speichert die vom Nutzer gelikten Fotos.
+- Home-View: Zeigt Bilder von der Unsplash API, ermöglicht das Liken und Durchstöbern.
+- Trend-View: Listet die beliebtesten Fotos basierend auf Likes auf und bietet Filteroptionen.
+- Create-View: Ermöglicht das Hochladen eigener Bilder.
+- Profile-View: Zeigt die hochgeladenen Fotos eines Nutzers an.
+- Favorite-View: Speichert die vom Nutzer gelikten Fotos.
 ## Zukünftige Entwicklungen
-🌐 Erweiterte Social Features: Kommentare und Interaktionen zwischen Nutzern.
-📊 Statistiken: Zeige an, wie viele Likes und Follower ein Nutzer hat.
-💸 In-App-Käufe: Zusätzliche Inhalte und Fotofilter.
-✨ Core Image Integration: Wir planen, das Core Image Framework in die App zu integrieren, um fortschrittliche Bildbearbeitungsfunktionen wie Filter, Zuschneiden und einfache Bearbeitungswerkzeuge anzubieten. Dies wird es den Nutzern ermöglichen, ihre Fotos direkt in der App anzupassen, bevor sie sie hochladen.
-Filter: Anwenden von Farbkorrekturen, Kontrasten und Effekten auf Fotos.
-Zuschneiden: Einfaches Zuschneiden und Drehen von Bildern.
-Bildbearbeitung: Helligkeit, Sättigung und andere Anpassungen direkt in der App.
+- 🌐 Erweiterte Social Features: Kommentare und Interaktionen zwischen Nutzern.
+- 📊 Statistiken: Zeige an, wie viele Likes und Follower ein Nutzer hat.
+- 💸 In-App-Käufe: Zusätzliche Inhalte und Fotofilter.
+- ✨ Core Image Integration: Wir planen, das Core Image Framework in die App zu integrieren, um fortschrittliche Bildbearbeitungsfunktionen wie Filter, Zuschneiden und einfache Bearbeitungswerkzeuge anzubieten. Dies wird es den Nutzern ermöglichen, ihre Fotos direkt in der App anzupassen, bevor sie sie hochladen.
+- Filter: Anwenden von Farbkorrekturen, Kontrasten und Effekten auf Fotos.
+- Zuschneiden: Einfaches Zuschneiden und Drehen von Bildern.
+- Bildbearbeitung: Helligkeit, Sättigung und andere Anpassungen direkt in der App.
 
 ## Lizenz
 
 Dieses Projekt ist ein privates Projekt für Studenten sowie iOS- und Mobile-Entwickler, die mit dem SwiftUI-Framework arbeiten. Es wurde als Abschlussprojekt für mein iOS-Modul erstellt und demonstriert meine Fähigkeiten im Umgang mit SwiftUI.
 
 
-Kontakt
+## Kontakt
 Hast du Fragen oder Anmerkungen? Du kannst mich hier erreichen:
 
-E-Mail: meyahmadi7394@gmail.com
-GitHub: meysam7394
+- E-Mail: meyahmadi7394@gmail.com
+- GitHub: meysam7394
